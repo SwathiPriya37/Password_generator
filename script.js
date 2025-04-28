@@ -20,3 +20,8 @@ function createPassword(){
     }
     passwordBox.value = Password;
 }
+
+function copyPassword(){
+    passwordBox.select();
+    document.execCommand("copy");
+}
