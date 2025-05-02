@@ -26,6 +26,7 @@ A simple **Random Password Generator** built using **HTML**, **CSS**, and **Java
 1. Clone or download the project files.
 2. Make sure you have the following structure:
 3. Open the `index.html` file in your browser.
+4. Or open the vs code(open live server mode).
 
 ---
 
