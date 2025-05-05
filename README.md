@@ -1,4 +1,4 @@
-# Password_generator 🔒
+# Password_generator 
 
 A simple **Random Password Generator** built using **HTML**, **CSS**, and **JavaScript**.
 
